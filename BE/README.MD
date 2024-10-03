@@ -1,0 +1,1 @@
+To make it work, ensure you are in the project's root folder, in this case, the "BE" folder (for Backend). Execute the command npm install, then run npm test. This will provide you with the port http://localhost:3000. After that, you can start the Frontend Project, following the step-by-step instructions in the AssesmentReadme file.
